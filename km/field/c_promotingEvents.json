@@ -1,9 +1,10 @@
 {
   "$id": "c_promotingEvents",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Promoting Events",
   "description": "",
-  "typeId": "yext/list",
+  "displayName": "Promoting Events",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
       "typeId": "yext/entityReference",
@@ -16,6 +17,5 @@
       }
     }
   },
-  "localization": "PRIMARY_ONLY",
-  "group": "NONE"
+  "typeId": "yext/list"
 }

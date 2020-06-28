@@ -1,9 +1,10 @@
 {
-  "$id": "c_localNonProfits",
+  "$id": "c_featuredGuests",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Local Non-Profits",
   "description": "",
-  "typeId": "yext/list",
+  "displayName": "Featured Guests",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
       "typeId": "yext/string",
@@ -14,6 +15,5 @@
       }
     }
   },
-  "localization": "PRIMARY_ONLY",
-  "group": "NONE"
+  "typeId": "yext/list"
 }
