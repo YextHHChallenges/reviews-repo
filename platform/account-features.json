@@ -1,11 +1,6 @@
 {
   "$schema": "https://schema.yext.com/config/platform/account-features/v1",
-  "enabled": [
-    299,
-    316,
-    301
-
-  ],
+  "enabled": [],
   "disabled": [
     50
   ]
