@@ -1,5 +1,5 @@
 {
-  "$id": "ce/event",
+  "$id": "ce_event",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
   "entityType": "yext/event",
   "displayName": "Event",
