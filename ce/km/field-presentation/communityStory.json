@@ -1,5 +1,5 @@
 {
-  "$id": "ce/communityStory",
+  "$id": "ce_communityStory",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
   "entityType": "ce_communityStory",
   "displayName": "Community Story",
