@@ -1,5 +1,5 @@
 {
-  "$id": "ce/restaurant",
+  "$id": "ce_restaurant",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
   "entityType": "yext/restaurant",
   "displayName": "Restaurant",
