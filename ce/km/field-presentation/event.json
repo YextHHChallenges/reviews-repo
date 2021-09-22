@@ -1,7 +1,7 @@
 {
   "$id": "ce_event",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
-  "entityType": "yext/event",
+  "entityType": "event",
   "displayName": "Event",
   "presentationEntries": [
     {
@@ -121,41 +121,41 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/categories",
+          "id": "categories",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/linkedLocation"
+          "id": "linkedLocation"
         },
         {
-          "id": "yext/venueName"
+          "id": "venueName"
         },
         {
-          "id": "yext/address",
+          "id": "address",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/timezone"
+          "id": "timezone"
         },
         {
-          "id": "yext/attendance"
+          "id": "attendance"
         },
         {
-          "id": "yext/eventStatus"
+          "id": "eventStatus"
         },
         {
-          "id": "yext/time",
+          "id": "time",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/additionalPromotingLocations"
+          "id": "additionalPromotingLocations"
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         }
       ]
@@ -219,25 +219,25 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/description"
+          "id": "description"
         },
         {
-          "id": "yext/performers"
+          "id": "performers"
         },
         {
-          "id": "yext/ageRange"
+          "id": "ageRange"
         },
         {
-          "id": "yext/websiteUrl"
+          "id": "websiteUrl"
         },
         {
-          "id": "yext/organizerName"
+          "id": "organizerName"
         },
         {
-          "id": "yext/organizerEmail"
+          "id": "organizerEmail"
         },
         {
-          "id": "yext/organizerPhone"
+          "id": "organizerPhone"
         },
         {
           "id": "c_featuredGuests"
@@ -302,22 +302,22 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/isFreeEvent"
+          "id": "isFreeEvent"
         },
         {
-          "id": "yext/isTicketedEvent"
+          "id": "isTicketedEvent"
         },
         {
-          "id": "yext/ticketUrl"
+          "id": "ticketUrl"
         },
         {
-          "id": "yext/ticketAvailability"
+          "id": "ticketAvailability"
         },
         {
-          "id": "yext/ticketPriceRange"
+          "id": "ticketPriceRange"
         },
         {
-          "id": "yext/ticketSaleDateTime"
+          "id": "ticketSaleDateTime"
         }
       ]
     },
@@ -364,7 +364,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/photoGallery"
+          "id": "photoGallery"
         }
       ]
     },
@@ -427,7 +427,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/keywords"
+          "id": "keywords"
         }
       ]
     },
@@ -474,7 +474,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/landingPageUrl"
+          "id": "landingPageUrl"
         }
       ]
     },
@@ -595,13 +595,13 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/labels"
+          "id": "labels"
         },
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/deliverListingsWithoutGeocode"
+          "id": "deliverListingsWithoutGeocode"
         }
       ]
     }

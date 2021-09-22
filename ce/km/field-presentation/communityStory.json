@@ -121,13 +121,13 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name"
+          "id": "name"
         },
         {
-          "id": "yext/entityId"
+          "id": "entityId"
         },
         {
-          "id": "yext/description"
+          "id": "description"
         },
         {
           "id": "c_goal"
@@ -200,7 +200,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/organizerEmail"
+          "id": "organizerEmail"
         },
         {
           "id": "c_localNonProfits"
@@ -218,10 +218,10 @@
           "id": "c_promotingEvents"
         },
         {
-          "id": "yext/landingPageUrl"
+          "id": "landingPageUrl"
         },
         {
-          "id": "yext/videos",
+          "id": "videos",
           "visibleOnAdd": true
         }
       ]
@@ -285,10 +285,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         },
         {
           "id": "c_territory"

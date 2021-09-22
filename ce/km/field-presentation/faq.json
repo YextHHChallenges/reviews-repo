@@ -1,7 +1,7 @@
 {
   "$id": "ce_faq",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "displayName": "FAQ",
   "presentationEntries": [
     {
@@ -121,11 +121,11 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         }
       ]
@@ -189,7 +189,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/answer"
+          "id": "answer"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/logo"
+          "id": "logo"
         }
       ]
     },
@@ -299,7 +299,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/keywords"
+          "id": "keywords"
         },
         {
           "id": "c_primaryCTA"
@@ -349,7 +349,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/landingPageUrl"
+          "id": "landingPageUrl"
         }
       ]
     },
@@ -470,13 +470,13 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         },
         {
-          "id": "yext/timezone"
+          "id": "timezone"
         }
       ]
     },
@@ -561,10 +561,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/primaryConversationContact"
+          "id": "primaryConversationContact"
         },
         {
-          "id": "yext/nudgeEnabled"
+          "id": "nudgeEnabled"
         }
       ]
     }
