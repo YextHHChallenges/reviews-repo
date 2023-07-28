@@ -131,69 +131,6 @@
       ]
     },
     {
-      "displayName": "Answer",
-      "displayNameTranslations": [
-        {
-          "localeCode": "it",
-          "value": "Risposta"
-        },
-        {
-          "localeCode": "sv",
-          "value": "Svar"
-        },
-        {
-          "localeCode": "tr",
-          "value": "Cevap"
-        },
-        {
-          "localeCode": "fr",
-          "value": "Réponse"
-        },
-        {
-          "localeCode": "ja",
-          "value": "回答"
-        },
-        {
-          "localeCode": "cs",
-          "value": "Odpověď"
-        },
-        {
-          "localeCode": "de",
-          "value": "Antwort"
-        },
-        {
-          "localeCode": "hu",
-          "value": "Válasz"
-        },
-        {
-          "localeCode": "fi",
-          "value": "Vastaus"
-        },
-        {
-          "localeCode": "sk",
-          "value": "Odpoveď"
-        },
-        {
-          "localeCode": "es",
-          "value": "Respuesta"
-        },
-        {
-          "localeCode": "nl",
-          "value": "Antwoord"
-        },
-        {
-          "localeCode": "pt",
-          "value": "Resposta"
-        }
-      ],
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "answer"
-        }
-      ]
-    },
-    {
       "displayName": "Media",
       "displayNameTranslations": [
         {
